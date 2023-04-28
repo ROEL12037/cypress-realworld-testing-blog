@@ -1,0 +1,7 @@
+// enables IntelliSense in regular JS spec files
+{
+  "include": [
+    "./node_modules/cypress",
+    "cypress/**/*.js"
+  ]
+}
